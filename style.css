@@ -1,0 +1,97 @@
+
+body { 
+      text-align: center;
+      font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+      font-size: 1.1em;
+      line-height: 1.9em;
+      margin: 0px;
+    }
+
+.full {
+    
+background-color: rgba(219, 208, 215, 0.425);
+}
+
+
+
+.navbar {
+    margin: 25px;  
+    margin-bottom: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+   
+
+    
+}
+
+
+#tabby-cat {
+            width: 100%;
+            height: auto;
+            margin: 5px;
+            padding: 5px;
+           
+}
+
+#orange-cat {
+             width: 100%;
+             height: auto;
+             margin: 5px;
+             padding: 5px;
+}
+
+#three-cats {
+             width: 100%;
+             height: auto;
+             margin: 5px;
+             padding: 5px;
+}
+
+#grumpy {
+             width: 100%;
+             height: auto;
+}
+
+#lilbub {
+             width: 100%;
+             height: auto;
+}
+
+
+.grump {
+    margin: 25px;
+   
+}
+
+.lil {
+    margin: 25px;
+    margin-top: 45px;
+}
+
+.foter {
+    font-family: monospace;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+
+#insta , #git {
+   width: 40px;
+   height: auto;
+   margin: 13px;
+   margin-bottom: 40px;
+}
+
+#insta:hover {
+    width: 45px;
+}
+
+#git:hover {
+    width: 45px;
+}
+
+
+.note {
+    margin-bottom: 15px;
+    text-align: center;
+}
